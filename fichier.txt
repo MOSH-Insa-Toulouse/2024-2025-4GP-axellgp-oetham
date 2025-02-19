@@ -1,3 +1,5 @@
 test 2
 a ok 3
 main
+a ok 3*
+ok 9
